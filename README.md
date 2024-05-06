@@ -1,5 +1,5 @@
 # Ex.No: 13 Learning – Use Supervised Learning  
-### DATE:                                                                            
+### DATE: 22/04/2024                                                                          
 ### REGISTER NUMBER : 212221040182
 ### AIM: 
 To write a program to train the classifier for Diabetes Prediction.
@@ -97,7 +97,8 @@ app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','num
 app.launch(share=True)
 ```
 ### Output:
-"C:\Users\vithy\OneDrive\Pictures\Screenshots\Screenshot (214).png"
+![WhatsApp Image 2024-04-22 at 11 24 12_31e5b4f1](https://github.com/Lingasri/AI-miniproject/assets/143391929/4b3708d1-1c0a-474e-bc1b-4e7962c55d6b)
+
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
